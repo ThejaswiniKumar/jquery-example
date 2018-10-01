@@ -1,0 +1,23 @@
+.navbar-default {
+  height: 80px;
+}
+.navbar-brand {
+  float: left;
+  height: 82px;
+  padding: 10px 10px;
+}
+.navbar-right {
+  padding: 20px 30px;
+  font-size: 25px;
+}
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
